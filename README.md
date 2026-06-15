@@ -1,34 +1,34 @@
 # Nexora Digital
 
-## Full Stack Web Development Internship - Task 2
+A responsive multi-page business website developed for Full Stack Web Development Internship - Task 2.
 
-### Project Description
+## Live Features
 
-Nexora Digital is a responsive multi-page website developed using HTML, CSS, and JavaScript.
+✅ Home Page
 
-The website contains:
+✅ About Page
 
-- Home Page
-- About Page
-- Contact Page
+✅ Contact Page
 
-### Features
+✅ Responsive Navigation Bar
 
-- Responsive Navigation Bar
-- Multi-Page Structure
-- Hero Section
-- About Section
-- Contact Form
-- JavaScript Form Validation
-- Mobile Responsive Design
+✅ Mobile-Friendly Design
 
-### Technologies Used
+✅ JavaScript Form Validation
+
+✅ Modern UI Design
+
+---
+
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-### Folder Structure
+---
+
+## Project Structure
 
 ```text
 Task2-MultiPage-Website
@@ -39,11 +39,48 @@ Task2-MultiPage-Website
 ├── style.css
 ├── script.js
 ├── README.md
-└── screenshots
+└── screenshots/
 ```
 
-### How to Run
+---
 
-1. Download project files.
-2. Open project in VS Code.
-3. Run index.html using Live Server.
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home-page.png)
+
+### About Page
+
+![About Page](screenshots/about-page.png)
+
+### Contact Page
+
+![Contact Page](screenshots/contact-page.png)
+
+---
+
+## How to Run
+
+1. Download or clone the repository
+
+```bash
+git clone YOUR_REPOSITORY_LINK
+```
+
+2. Open the project in VS Code
+
+3. Run index.html using Live Server
+
+---
+
+## Learning Outcomes
+
+- Multi-page website development
+- Navigation between pages
+- Responsive web design
+- Form creation and validation
+- Git & GitHub workflow
+
+---
+
